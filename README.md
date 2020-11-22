@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## FInal output
+## Final output
 
-![image](src/images/output.png)
+![output](https://user-images.githubusercontent.com/46211134/99900476-b322f180-2cd5-11eb-9ffe-644afec39848.PNG)
 
 ## Available Scripts
 
