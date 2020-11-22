@@ -59,9 +59,9 @@ function Contacts() {
 
     return (
         <div>
-            <div class="jumbotron jumbotron-fluid">
-                <div class="container">
-                    <h1 class="display-4 text-center">Contact Register</h1>
+            <div className="jumbotron jumbotron-fluid">
+                <div className="container">
+                    <h1 className="display-4 text-center">Contact Register</h1>
                 </div>
             </div>
 
